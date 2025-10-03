@@ -2,7 +2,7 @@
 
 Python | Node | AWS | Deep Learning
 
-Trabajo de desarrollador de software
+Soy Bachiller en Desarrollo de Software pero siempre voy por nuevos aprendizajes
 
 
 
